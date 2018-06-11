@@ -1,0 +1,23 @@
+{
+    "name": "gulp",
+    "version": "1.0.0",
+    "description": "",
+    "main": "gulpfile.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "scripts": {
+        "dev": "*",
+        "build": "*"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/liyuzhou1/gulp.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/liyuzhou1/gulp/issues"
+    },
+    "homepage": "https://github.com/liyuzhou1/gulp#readme"
+}
